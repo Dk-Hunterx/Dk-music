@@ -12,8 +12,8 @@
 
 <br>
 
-[![Telegram Channel](https://img.shields.io/badge/📢_Channel-Artistbots-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117)](https://t.me/Artistbots)
-[![Support Group](https://img.shields.io/badge/💬_Support-ArtistMusic-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117)](https://t.me/Elevenytschats)
+[![Telegram Updates](https://img.shields.io/badge/📢_Updates-Channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117)](https://t.me/+PJFhQTIsbdY3YjU1)
+[![Support Group](https://img.shields.io/badge/💬_Support-Group-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117)](https://t.me/+sEv0qBVqxjc0NDhl)
 
 </div>
 
@@ -471,8 +471,8 @@ Stop a running tag session.
 
 | Platform | Link |
 |:---:|:---:|
-| 📢 Updates Channel | [Artistbots](https://t.me/Artistbots) |
-| 💬 Support Group | [Elevenytschats](https://t.me/elevenytschats) |
+| 📢 Updates Channel | [Join updates channel](https://t.me/+PJFhQTIsbdY3YjU1) |
+| 💬 Support Group | [Join support group](https://t.me/+sEv0qBVqxjc0NDhl) |
 
 </div>
 
